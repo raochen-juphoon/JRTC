@@ -1,0 +1,3 @@
+include ':jitpack'
+include ':app'
+rootProject.name = "PublishJRTCSDK"
